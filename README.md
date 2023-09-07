@@ -1,6 +1,6 @@
 <img src="img/Screenshot 2023-09-07 193418.jpg">
-<h3 align="center">magic_button</h3>
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Magic button</h3>
+
 <p align="left">
 </p>
 
